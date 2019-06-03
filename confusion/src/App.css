@@ -14,6 +14,14 @@
 	
 }
 
+.row-font{
+	font-family: 'Slabo 27px', serif;
+}
+
+.par-font{
+	font-family: 'Lato', sans-serif;
+}
+
 
 
 .footer{
@@ -26,13 +34,13 @@
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: #9575CD ;
-    color:floralwhite;
+   
+    color:black;
 }
 
 
 .navbar-dark{
-	background-color: #512DA8
+	background-color: #4169E1
 }
 
 
